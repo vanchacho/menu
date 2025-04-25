@@ -9,6 +9,10 @@
   
 }
 
+:root {
+  color-scheme: light;
+}
+
 body{
   background: url(forest.jpg) no-repeat;
   display: flex;
